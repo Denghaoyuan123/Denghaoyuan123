@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Denghaoyuan123
-- 👀 I’m interested in Robot navigation, Deep reinforcement learning, Robot navigation
+- 👀 I’m interested in Learning-based robot planning
 - 🌱 I’m currently learning Master's Programs at NTU
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1115785091@qq.com
 
 <!---
