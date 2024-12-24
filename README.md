@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Denghaoyuan123
-- 👀 I’m interested in Learning-based robot planning
+- 👀 I’m interested in Learning-based manipulation
 - 🌱 I’m currently learning Master's Programs at NTU
-- 📫 How to reach me 1115785091@qq.com
+- 📫 How to reach me e230112@e.ntu.edu.sg
 
 <!---
 Denghaoyuan123/Denghaoyuan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
