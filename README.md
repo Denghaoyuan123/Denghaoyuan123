@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Denghaoyuan123
-- 👀 I’m interested in Learning-based manipulation
-- 🌱 I’m currently learning Master's Programs at NTU
-- 📫 How to reach me e230112@e.ntu.edu.sg
+- 👋 Hi, I’m @Deng Haoyuan
+- 👀 My research focuses on Embodied AI, with interests in Bimanual Manipulation, Imitation Learning, and Reinforcement Learning.
+- 🌱 I'm a first-year PhD student at Nanyang Technological University, supervised by Prof. [Ziwei Wang](https://ziweiwangthu.github.io/) in the [PINE Lab](https://pine-lab-ntu.github.io/). 
+- 📫 How to reach me: e230112@e.ntu.edu.sg
 
 <!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Denghaoyuan123&show_icons=true&theme=radical) --->
 <!---
