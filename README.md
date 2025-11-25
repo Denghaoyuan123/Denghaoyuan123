@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deng Haoyuan
+- 👋 Hi, I’m [Deng Haoyuan](https://denghaoyuan123.github.io/)
 - 👀 My research focuses on Embodied AI, with interests in Bimanual Manipulation, Imitation Learning, and Reinforcement Learning.
 - 🌱 I'm a first-year PhD student at Nanyang Technological University, supervised by Prof. [Ziwei Wang](https://ziweiwangthu.github.io/) in the [PINE Lab](https://pine-lab-ntu.github.io/). 
 - 📫 How to reach me: e230112@e.ntu.edu.sg
